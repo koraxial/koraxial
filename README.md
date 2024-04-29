@@ -1,4 +1,4 @@
-<h1 align="center" style="color : yellowgreen">Hello, I'm korax (^▽^)/</h1>
+![Header](./koraxial-github-header-image.png)
 
 <h3 align="center"></h3> 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=koraxial&show_icons=true&theme=dark"locale=en" alt="koraxial" /></p>
