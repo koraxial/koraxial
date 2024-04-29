@@ -1,7 +1,7 @@
 <h1 align="center" style="color : yellowgreen">Hello, I'm korax (^▽^)/</h1>
 
 <h3 align="center"></h3> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=koraxial&show_icons=true&theme=dark"locale=en" alt="koraxial" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=koraxial&show_icons=true&theme=dark"locale=en" alt="koraxial" /></p>
 </br>
 <h1 align="center">..........</h1>
 <h3 align="center">Languages and Tools I know:</h3>
