@@ -11,7 +11,11 @@
 </p>
 <h1 align="center"> </h1>
 
-<h3 align="center"></h3> 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=koraxial&show_icons=true&theme=dark"locale=en" alt="koraxial" /></p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=koraxial&theme=nord&show_icons=true&bg_color=00000000&hide_border=false&count_private=true&card_width=100&rank_icon=github"/>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=koraxial&theme=nord&bg_color=00000000&hide_border=false&layout=compact&langs_count=8&card_width=100" />
+</a>
+</a>
 <h1 align="center">..........</h1>
 
